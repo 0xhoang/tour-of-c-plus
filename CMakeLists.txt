@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.8)
+project(laptrinhc)
+
+set(CMAKE_CXX_STANDARD 11)
+
+set(SOURCE_FILES main.cpp)
+add_executable(laptrinhc ${SOURCE_FILES})
+add_executable(hello_world hello_world.cpp)
+add_executable(convert_f_c convert_f_c.cpp)
+add_executable(find_min_max find_min_max.cpp)
+add_executable(sort sort.cpp)
+add_executable(dataType practice/dataType.cpp)
+add_executable(array practice/array.cpp)
+add_executable(struct practice/struct.cpp)
+add_executable(pointers practice/pointers.cpp)
+add_executable(singleLinkList practice/singleLinkList.cpp)
