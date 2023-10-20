@@ -1,9 +1,4 @@
-//
-// Created by LAP00344 on 10/1/17.
-//
-
 #include "iostream"
-using namespace std;
 
 void ham(int x);
 

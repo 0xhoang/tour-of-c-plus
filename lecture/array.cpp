@@ -1,17 +1,12 @@
-//
-// Created by LAP00344 on 11/15/17.
-//
-
-
 #include "iostream"
 using namespace std;
 
 #define n1 3;
 #define n2 5;
 const int n3 = 5;
+
 int main()
 {
-
     int yearOld [10];
     int matrix[10][10];
 
@@ -30,7 +25,6 @@ int main()
     for (int i = 0; i <= num-1; i++) {
         printf("%d \n", arr[i]);
     }
-
 
     return 1;
 }

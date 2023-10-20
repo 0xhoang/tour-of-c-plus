@@ -1,9 +1,4 @@
-//
-// Created by LAP00344 on 11/15/17.
-//
-
 #include <iostream>
-using namespace std;
 
 int main()
 {
